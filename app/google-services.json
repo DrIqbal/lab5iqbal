@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "936713480201",
+    "firebase_url": "https://lab5iqbal.firebaseio.com",
+    "project_id": "lab5iqbal",
+    "storage_bucket": "lab5iqbal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936713480201:android:a887eda14344c6b5",
+        "android_client_info": {
+          "package_name": "com.example.lab5_iqbal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936713480201-jerkcmd2v0q04jlcv4dij9eelv7mu90t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lab5_iqbal",
+            "certificate_hash": "7bc7fc30c52eae20854044f1ca7a0a1b0e970cdd"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAnyGD89o7ZoxHxmlH5Kpx4QkDgbX41fE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936713480201-r9j2cbv2kg7auoj43c836dkise5ip5im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
